@@ -42,12 +42,13 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 
 - 🔗 [SpringBoot and React Project](https://github.com/KashouMMT/React-and-SpringBoot-Project) – React Frontend and SpringBoot REST API Project. (solo)
 - 🔗 [DAT-Growth Hub](https://github.com/KashouMMT/DAT-Growth-Hub-3) – SpringBoot with thymeleaf Project. (team)
-
+- 🔗 [Tetris (C++ pure)]https://github.com/KashouMMT/TetrisGame-Cpp - A fun Tetris game made in pure C++ (solo)
+<!--
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
+-->
 ---
 ⭐️ From Myint Myat Thu (https://github.com/KashouMMT)
