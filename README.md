@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 
 - 🔗 [SpringBoot and React Project](https://github.com/KashouMMT/React-and-SpringBoot-Project) – React Frontend and SpringBoot REST API Project. (solo)
 - 🔗 [DAT-Growth Hub](https://github.com/KashouMMT/DAT-Growth-Hub-3) – SpringBoot with thymeleaf Project. (team)
-- 🔗 [Tetris (C++ pure)]https://github.com/KashouMMT/TetrisGame-Cpp - A fun Tetris game made in pure C++. (solo)
+- 🔗 [Tetris (C++ pure)](https://github.com/KashouMMT/TetrisGame-Cpp) - A fun Tetris game made in pure C++. (solo)
 <!--
 ## 🌐 Let's Connect
 
