@@ -40,8 +40,8 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 
 ## 📂 Featured Projects
 
-- 🔗 ![SpringBoot and React Project](https://github.com/KashouMMT/React-and-SpringBoot-Project) – React Frontend and SpringBoot REST API Project. (solo)
-- 🔗 ![DAT-Growth Hub](https://github.com/KashouMMT/DAT-Growth-Hub-3) – SpringBoot with thymeleaf Project. (team)
+- 🔗 [SpringBoot and React Project](https://github.com/KashouMMT/React-and-SpringBoot-Project) – React Frontend and SpringBoot REST API Project. (solo)
+- 🔗 [DAT-Growth Hub](https://github.com/KashouMMT/DAT-Growth-Hub-3) – SpringBoot with thymeleaf Project. (team)
 
 ## 🌐 Let's Connect
 
