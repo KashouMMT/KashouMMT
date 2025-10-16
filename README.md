@@ -8,8 +8,8 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 - 🌱 I’m currently learning: React (typescript) and SpringBoot REST API.
 - 👯 I’m looking to collaborate on: Anything that is Web application or software development for both window or Linux. Willing to learn new languages and frameworks.
 - 💬 Ask me about: Anything. I'm willing to learn anything new.
-- 📫 How to reach me: My Gmail: (mmyaatthum925@gmail.com)
-- ⚡ Fun fact: ChatGPT is my best friend.
+- 📫 How to reach me: My Gmail: (mmyaatthum925@gmail.com), My Phone number: +66634356148, +95974212903
+- ⚡ Fun fact: Some loves vibe coding but AI is simply just a tool. It can't replace you.
 
 ## 🛠️ Technologies & Tools
 
@@ -43,10 +43,11 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 - 🔗 [SpringBoot and React Project](https://github.com/KashouMMT/React-and-SpringBoot-Project) – React Frontend and SpringBoot REST API Project. (solo)
 - 🔗 [DAT-Growth Hub](https://github.com/KashouMMT/DAT-Growth-Hub-3) – SpringBoot with thymeleaf Project. (team)
 - 🔗 [Tetris (C++ pure)](https://github.com/KashouMMT/TetrisGame-Cpp) - A fun Tetris game made in pure C++. (solo)
-<!--
+
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/myint-myat-thu-9aa850389/)
+<!--
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
 -->
