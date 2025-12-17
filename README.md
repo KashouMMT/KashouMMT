@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 
 - 🔭 I’m currently working on: React-and-SpringBoot-Project.
 - 🌱 I’m currently learning: React (typescript) and SpringBoot REST API.
-- 👯 I’m looking to collaborate on: Anything that is Web application or software development for both window or Linux. Willing to learn new languages and frameworks.
+- 👯 I’m looking to collaborate on: Anything that is Web application or software development for both window or Linux. Currently learning SpringBoot REST API + React Library.
 - 💬 Ask me about: Anything. I'm willing to learn anything new.
 - 📫 How to reach me: My Gmail: (mmyaatthum925@gmail.com)
 - ⚡ Fun fact: AI is simply just a tool. It can't replace you and your creativity 
