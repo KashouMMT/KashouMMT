@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: React-and-SpringBoot-Project.
-- 🌱 I’m currently learning: React (typescript) and SpringBoot REST API.
+- 🌱 I’m currently learning: Pattaya Japan.
 - 👯 I’m looking to collaborate on: Anything that is Web application or software development for both window or Linux. Currently learning SpringBoot REST API + React Library.
 - 💬 Ask me about: Anything. I'm willing to learn anything new.
 - 📫 How to reach me: My Gmail: (mmyaatthum925@gmail.com)
@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building things with 
 
 ## 📂 Featured Projects
 
-- 🔗 [SpringBoot and React Project](https://github.com/KashouMMT/React-and-SpringBoot-Project) – React Frontend and SpringBoot REST API Project. (solo)
+- 🔗 [SpringBoot and React Project]([https://github.com/KashouMMT/React-and-SpringBoot-Project](https://github.com/KashouMMT/pattaya-japan)) – React Frontend and SpringBoot REST API Project. (solo)
 - 🔗 [DAT-Growth Hub](https://github.com/KashouMMT/DAT-Growth-Hub-3) – SpringBoot with thymeleaf Project. (team)
 - 🔗 [Tetris (C++ pure)](https://github.com/KashouMMT/TetrisGame-Cpp) - A fun Tetris game made in pure C++. (solo)
 
